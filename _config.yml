@@ -1,0 +1,7 @@
+# Site settings
+title: I am Error
+description: Suite of pregenerated error pages for CEH
+
+# Build settings
+markdown: kramdown
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
