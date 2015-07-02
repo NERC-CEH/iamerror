@@ -10,7 +10,3 @@ The project is built [Jekyl](http://jekyllrb.com/) as such, you will need to:
     jeykll serve
 
 The generated pages will be running at: http://localhost:4000
-
-## Deploying
-
-To deploy to github pages, just merge into **gh-pages**
